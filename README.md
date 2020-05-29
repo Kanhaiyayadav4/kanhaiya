@@ -1,2 +1,0 @@
-# kanhaiya
-My first project
